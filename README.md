@@ -11,3 +11,6 @@ read me.md
 generates only 52 cards
 
 modules used   PIL   Os  Sys
+
+
+EXPRERIMERTN
